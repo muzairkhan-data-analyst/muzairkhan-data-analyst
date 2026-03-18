@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi I'm Uzair😊
+## Data Analyst
 
-<!--
-**muzairkhan-data-analyst/muzairkhan-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 SKILLS:
+- Power BI
+- Excel
+- Python
+- Tableau
+- SQL
 
-Here are some ideas to get you started:
+🔹 WHAT I DO:
+- Data Cleaning
+- Data Visualization
+- Dashboard Creation
+- DAX Queries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 PROJECTS:
+- E-Commerce Sales Dashboard
+- HR Analytics Dashboard
+- Data Science Job Salaries Dashboard
+- Blinkit Grocery Sales Dashboard
+- Income Statement Dashboard
+- Amazon Sales Dashboard
+- Retail Sales Performance Dashboard
+- Global Population Analytics Dashboard
+
+🔹 EMAIL:
+- muzairkhan747@gmail.com
+
+🔹 LINKEDIN:
+- https://www.linkedin.com/in/muhammad-uzair-khan-903899265/
